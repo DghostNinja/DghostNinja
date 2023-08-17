@@ -1,4 +1,4 @@
-![logo]()
+[![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
 <h1 align="center">Hi 👋, I'm iPsalmy Dghost</h1>
 <h3 align="center">A passionate Ethical Hacker and Bug Bounty Hunter</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
