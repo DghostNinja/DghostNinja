@@ -1,7 +1,7 @@
 ![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
 <h1 align="center">Hi!👋 I'm iPsalmy Dghost</h1>
 <h3 align="center">A passionate Ethical Hacker| Application and APISEC Penetration Tester| Bug Bounty Hunter</h3>
-<h4> Welcome to my GitHub page! </h4>
+<h4 align="center"> Welcome to my GitHub page! </h4>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dghostninja&label=Profile%20views&color=0e75b6&style=flat" alt="dghostninja" /> </p>
