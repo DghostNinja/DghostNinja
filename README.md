@@ -1,6 +1,6 @@
 ![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
 <h1 align="center">Hi!👋 I'm iPsalmy DghostNinja</h1>
-<h3 align="center">A passionate Security Researcher| Application Security Engineer & Penetration Tester|</h3>
+<h3 align="center">A passionate Security Researcher| Application Security Engineer & Penetration Tester</h3>
 <h4 align="center"> Welcome to my GitHub page!</h4>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
